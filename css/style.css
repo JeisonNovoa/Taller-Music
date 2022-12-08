@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400&display=swap');
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(../images/angel-jimenez.jpg);
+    background-size: 100%;
+    height: 950px;
+    background-repeat: no-repeat;
+}
+
+h1{
+    padding-top: 300px;
+    font-size: 200px;
+    color: aliceblue;
+    text-align: center;
+}
+
+h2, h3{
+    font-size: 60px;
+    font-family: 'Roboto Mono', monospace;
+    color: #363636;
+}
+
+h2{
+    background: #ccc;
+  font-family: system-ui;
+  font-size: 60px;
+  line-height: 115%;
+
+}
+
+.parte1 {
+    float: left;
+    width: 400px;
+    margin-top: -20px;
+    margin-left: 225px;
+}
+
+p{
+    font-size: 18.5px;
+    width: 471px;
+}
+
+button{
+    border: 2px solid #FD4C5C;
+    padding: 10px;
+    background-color: #FD4C5C;
+    border-radius: 50px;
+    width: 165px;
+    height: 45px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.musica{
+    background: linear-gradient(80deg, #fa4a54 50%, #e92363 50%);   
+    -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  display: inline-block ;
+}
+
+.imagen2 {
+    float: right;
+    width: 420px;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+
+.parte2{
+    float: right;
+    margin-right: 140px;
+    width: 400px;
+    margin-top: 150px;
+}
+
+.parte2 h2{
+    font-size: 50px;
+    width: 512px;
+    background: linear-gradient(55deg, #fa4a54 22%, #e92363 -87%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: inline-block;
+}
+
+.lou{
+    background: linear-gradient(80deg, #fa4a54 50%, #e92363 50%);  
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: inline-block ;
+}
+
+.titulo2{
+    font-size: 50px;
+    width: 512px;
+}
+
+.imagen3{
+    width: 400px;
+    float: left;
+    margin-left: 195px; ;
+    height: 495px;
+    margin-top: 90px;
+}
+
+.pie_pagina{
+    background-image: url(../images/john-raptis.png);
+    background-size: 100%;
+    height: 550px;
+   background-repeat: no-repeat;
+   margin-top: 75px;
+}
+
+.parte3{
+    padding-left: 760px;
+    padding-top: 140px;
+    text-align: left;
+    width: 600px;
+}
+
+.H4{
+    font-size: 52px;
+    margin-top: -20px;
+}
+
+h4{
+    color: white;
+    font-size: 55px;
+    width: 454px;
+}
+
+.parte4{
+    color: azure;
+    font-size: 18px;
+}
+
+.foot{
+    background: linear-gradient(to right,#fa4a54 , #e92363  ) ;
+    height: 300px;
+   
+}
+
+ul, li{
+    list-style: none;
+    padding-left: 85px;
+    color: #f5f5f5;
+}
+
+.fin{
+    padding-top: 50px;
+    display: flex;
+    border-bottom: #ccc;
+}
+
+.firma{
+    margin-left: 1080px;
+    margin-top: -12px; 
+  }
+
+.clear {
+    clear: both;
+    margin: 0 auto;
+}
+
+hr{
+    width: 75%;
+    margin: auto;
+}
+
+h6{
+    color: white;
+    margin-left: 166px;
+    margin-top: 20px;
+    font-size: 12px; 
+}  
